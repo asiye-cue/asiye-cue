@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asiye-cue
-- 👀 I’m interested in Data Engineering an Cloud Technologies.
+- 👀 I’m interested in Data Engineering and Cloud Technologies.
 - 🌱 I’m currently learning dbt and Fivetran.
 - 💞️ I’m looking to collaborate on dbt.
 - 📫 How to reach me a.kacmaz.t@cue.me
